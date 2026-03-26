@@ -1,0 +1,15 @@
+# Cloned repos (large, already on GitHub)
+DomTerm/
+claude-code-remote/
+claude-code-webui/
+claudecodeui/
+cui/
+gotty-readonly/
+libapps-mirror/
+shellinabox-readonly/
+ttyd/
+wetty/
+xterm.js/
+
+# Node
+node_modules/
